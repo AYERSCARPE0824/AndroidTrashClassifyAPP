@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">carapp</string>
+    <string name="title_activity_environment">environment</string>
+    <string name="title_home">主页</string>
+    <string name="title_pighouse">猪舍状况</string>
+    <string name="title_detail_carhaouse">车厢详情</string>
+    <string name="title_setting">信息修改</string>
+    <string name="manage_driver_name">Name:</string>
+    <string name="none_try">None</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
